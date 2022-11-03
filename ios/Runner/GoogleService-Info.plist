@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1076624614686-j39p5gk007h75d3or1rqmu3lg9cf2d3m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1076624614686-j39p5gk007h75d3or1rqmu3lg9cf2d3m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1076624614686-7qjp27f38440d0degauqr56l7ght23e1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4WxJrUQQ3DQpKGYVebEebkCi_AOBCHzM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1076624614686</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.edakiadmin</string>
+	<key>PROJECT_ID</key>
+	<string>edaki-fd20c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>edaki-fd20c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1076624614686:ios:a94024773121704bbb150f</string>
+</dict>
+</plist>
